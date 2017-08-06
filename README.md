@@ -33,7 +33,7 @@ void delayms(unsigned int n) = pauses the controller for n milliseconds
 
 Electronic Diagram
 ====================
-![Alt text](/pictures/Schematic.jpg?raw=true "Optional Title")
+![Alt text](/Schematic.jpg?raw=true "Optional Title")
 
 
 # Number Guessing game
