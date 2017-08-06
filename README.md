@@ -5,6 +5,8 @@ Project files for my microcontroller  final project for DEEC, Ngee Ann Polytechn
   2=Five number calc; 
   3=Mastermind
   
+*IMPORTANT - To view main program, go to main.c
+  
 # License
 
 This program is subject to an Educational license of entitlement may be used solely for purposes directly related to learning, training, research or development at the discretion of Ngee Ann Polytechnic in Singapore. This program cannot be used for commercial, professional or any other for-profit purposes.
